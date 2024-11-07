@@ -1,8 +1,10 @@
 .full_pg2{
     margin: 0;
-    margin-left: 6%;
+    margin-left: 10%;
+    margin-bottom: 4%;
     padding: 0;
-    width: 60%;
+    padding-bottom: 4%;
+    width: 54%;
     /* border: 1px solid black; */
 }
 .header_pg2{
@@ -13,6 +15,7 @@
     /* border: 1px solid red; */
 }
 .btn_part_pg2{
+    cursor: pointer;
     margin: 2% 2% 0 0;
     padding: 0%;
     padding-bottom: 4px;
@@ -44,6 +47,7 @@
     padding: 0;
 }
 .box_pg2{
+    margin-top: 2%;
     border-radius: 6px;
     background-color: white;
 }
@@ -53,4 +57,15 @@
 }
 .box_p1_pg2{
     padding: 1.4%;
+}
+.range_pg2{
+    width: 99%;
+    /* background-color: yellow;
+    color: red; */
+}
+.c_box_pg2{
+    /* padding: 1%; */
+    display: flex;
+    gap: 1%;
+    /* border: 1px solid red; */
 }

@@ -1,8 +1,8 @@
 .full_pg1{
     margin: 0;
-    margin-left: 6%;
+    margin-left: 10%;
     padding: 0;
-    width: 60%;
+    width: 54%;
     /* border: 1px solid black; */
 }
 .h2_pg1{
@@ -26,7 +26,7 @@
     /* border: 1px solid green; */
 }
 .head_pg1{
-    padding: 1.5%;
+    padding: 2%;
     /* width: 100%; */
     color: black;
     font-size: medium;
@@ -46,7 +46,7 @@
 }
 .part_pg1{
     margin: 0;
-    padding: 1.5%;
+    padding: 2%;
     width: 48%;
     /* border: 1px solid red; */
 }
@@ -63,4 +63,9 @@
     width: 94%;
     border: 1.3px solid rgb(126, 125, 125);
     border-radius: 4px;
+}
+.plans_pg1{
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
 }
